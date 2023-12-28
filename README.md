@@ -1,5 +1,4 @@
 # 👋 Hi, I’m @Krintni
-A newbie 'developer' from Germany who programs in his free time 
 
 ### About me
 - 👀 I’m interested in Open Source Software, Android, Linux, Security
